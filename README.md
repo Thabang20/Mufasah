@@ -15,8 +15,8 @@ Look how easy it is to use:
 
 Features
 --------
-
-- 
+- HTML
+- CSS
 
 Contribute
 ----------
